@@ -1,11 +1,9 @@
-<<<<<<< HEAD
-# cv
-=======
-## Your Name
+## María Verónica Sonzini (October 1984 to date)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a bioimages productor, passionate about life sciences and, recently, software development. I have been working in the software industry for a couple of years, as a software tester at Hewlett Packard (Argentina) and after that I've been doing iOS self learning for 18 months. My family and I decided to make a huge change of life and we moved from Argentina to London on January 2016, and that's when I decided to start for real a new page in my life's book, joining Makers Academy. 
+I'm looking for a Full Stack Junior Developer role where I can grow and continue to learn. In order to pursue my dreams, I would love to bring together both my knowledge in medical and biological sciences and in sofware development. I want to change the world, and for that I'm looking for an organization that loves to create great software and contribute to the development and better understanding of science.
 
-## Skills
+## What I can do
 
 #### This Skill
 
@@ -24,9 +22,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## My Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2016 to February 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -35,18 +33,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Universidad Nacional de Cordoba, Argentina (February 2010 to December 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Degree in Bioimaging production
+- 7.0
+- Worked at 'Hospital Misericordia de Cordoba, Argentina' for University practice. 
+- Worked as teacher's aid in Radiotherapy course throughout my studies. 
 
 #### Any other qualifications
 
-## Experience
+## My previous Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
->>>>>>> 2081d944b0b90399243ab72575f17c702e147b34
+**Hewlett Packard (Argentina)** (July 2013 to March 2015)    
+*Software testing and QA*  
+**Hospital Misericordia, Cordoba, Argentina** (March 2013 to March 2014)   
+*General Radiographer*  
